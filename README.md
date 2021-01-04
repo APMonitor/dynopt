@@ -1,9 +1,8 @@
-# APMonitor-do
-Dynamic Optimization
+### Dynamic Optimization
 
-Following is a colab (jupyter notebook) version of the Dynamic Optimization course taught by Dr. John Hedengren at the Brigham Young University. Best method to view these notebooks is in google colab.
+Following is a Google Colab (Jupyter Notebook) version of the Dynamic Optimization course. The best method to view these notebooks is in Google Colab.
 
-Original course website: http://apmonitor.com/do/index.php/Main/HomePage
+Original course website: http://apmonitor.com/do
 
 The goal of this effort is to help students on the following:
 
@@ -13,9 +12,8 @@ The goal of this effort is to help students on the following:
 - Try new code techniques to solve problem
 - Run code in the browser
 
-Currently, GEKKO and ODEINT code are functional in these notebooks. APM code, MATLAB code, lab assignments and exams are a work in progress (link is provided to original website in latter case).
-
+GEKKO and ODEINT code are functional in these notebooks.
 
 <h2>Start Here</h2>
 
-Colab version of course: https://github.com/misbahsy/APMonitor-do/blob/master/DynamicOptimization.ipynb
+Colab version of course: https://github.com/APMonitor/dynopt/blob/master/DynamicOptimization.ipynb  Thanks to Ali Misbah for work on this version of the course.
